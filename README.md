@@ -6,7 +6,7 @@
 
 ---
 
-I am a Mechatronics Engineering student at Universidad Nacional de Colombia with a strong focus on **Machine Learning, Computer Vision, and Data Science applied to Engineering Systems**.
+I am a Mechatronics Engineering student at Universidad Nacional de Colombia with a strong focus on **Data Science, Machine Learning, and Computer Vision applied to engineering systems**.
 
 I have hands-on experience developing end-to-end ML solutions in both **academic and industrial environments**, including my role as a *Machine Learning / Data Science Intern* at Robert Bosch GmbH in Germany.
 
